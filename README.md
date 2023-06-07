@@ -2,6 +2,7 @@
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures.
 
 Key Features of Pandas:
+
 Fast and efficient DataFrame object with default and customized indexing.
 
 Tools for loading data into in-memory data objects from different file formats.
